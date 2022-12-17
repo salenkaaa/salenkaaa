@@ -16,4 +16,6 @@ https://explorer.nodestake.top/lambda/staking/lambvaloper1qey0jtmvzg4nx5lmups6wl
 GALAXY
 https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1g3ms87l2un5qh9e84uaf3ymh4gjejx9pzkuc0h
 
-My current Testnet validators Uptick, Defund, Transformer, Massa, Nibiru, Deweb, Gitopia
+My current Testnets
+
+Uptick, Defund, Transformer, Massa, Nibiru, Deweb, Gitopia
