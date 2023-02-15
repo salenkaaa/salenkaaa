@@ -13,8 +13,6 @@ https://ping.pub/jackal/staking/jklvaloper1eqaxq36xgflyw0heee35sw4m8lm5mq2ypda90
 LAMBDA
 https://explorer.nodestake.top/lambda/staking/lambvaloper1qey0jtmvzg4nx5lmups6wl9hza6xpqwxf945hl
 
-GALAXY
-https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1g3ms87l2un5qh9e84uaf3ymh4gjejx9pzkuc0h
 
 My current Testnets
 
