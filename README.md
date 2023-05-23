@@ -19,4 +19,4 @@ https://explorer.nodestake.top/lambda/staking/lambvaloper1qey0jtmvzg4nx5lmups6wl
 
 My current Testnets
 
-Uptick, Defund, Transformer, Massa, Nibiru, Deweb, Gitopia
+Defund, Transformer, Massa, Nibiru, Deweb, Elixir
