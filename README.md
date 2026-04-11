@@ -2,13 +2,13 @@ I'm salenka 🌸
 
 I am an individual validator and blockchain enthusiast.
 
-My current Mainnet validators ⛓️
+**My current mainnet validators** ⛓️
 
 PROVENANCE
 
 https://www.mintscan.io/provenance/validators/pbvaloper18z3vmsmpvgcjdq58fxuek360t603d5saxx0zzt
 
-My mainnet validators are off 💔
+**My mainnet validators are off** 💔
 
 LAMBDA
 
@@ -22,6 +22,6 @@ KUSAMA
 
 kusama.subscan.io/account/GCbjDUscmiDd9fKmui2unzbDEA7VbCYRVXzTXhUGdc7ffat
 
-My Testnets 🧪
+**My Testnets** 🧪
 
 Defund, Transformer, Massa, Nibiru, Deweb, Elixir, Side, Warden
