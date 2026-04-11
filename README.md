@@ -2,17 +2,20 @@ I'm salenka 🌸
 
 I am an individual validator and blockchain enthusiast.
 
-My current Mainnet validators
+My current Mainnet validators ⛓️
+
+PROVENANCE
+https://www.mintscan.io/provenance/validators/pbvaloper18z3vmsmpvgcjdq58fxuek360t603d5saxx0zzt
+
+My mainnet validators are off 💔
 
 LAMBDA
-https://ping.pub/lambda/staking/lambvaloper1qey0jtmvzg4nx5lmups6wl9hza6xpqwxf945hl
-
+ping.pub/lambda/staking/lambvaloper1qey0jtmvzg4nx5lmups6wl9hza6xpqwxf945hl
 SIX SIGMA SPORTS
-https://blockexplorer.sgenetwork.io/sge/staking/sgevaloper16h0lxrp35es5nf6vr02vs9pem0lwlhp22984ms
-
+blockexplorer.sgenetwork.io/sge/staking/sgevaloper16h0lxrp35es5nf6vr02vs9pem0lwlhp22984ms
 KUSAMA
-https://kusama.subscan.io/account/GCbjDUscmiDd9fKmui2unzbDEA7VbCYRVXzTXhUGdc7ffat
+kusama.subscan.io/account/GCbjDUscmiDd9fKmui2unzbDEA7VbCYRVXzTXhUGdc7ffat
 
-My Testnets
+My Testnets 🧪
 
 Defund, Transformer, Massa, Nibiru, Deweb, Elixir, Side, Warden
