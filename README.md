@@ -1,3 +1,5 @@
+**Stake with me. Secure. Reliable. Proven.**
+
 I'm salenka 🌸
 
 I am an individual validator and blockchain enthusiast.
