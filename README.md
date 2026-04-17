@@ -10,6 +10,10 @@ PROVENANCE
 
 https://www.mintscan.io/provenance/validators/pbvaloper18z3vmsmpvgcjdq58fxuek360t603d5saxx0zzt
 
+UPTICK
+
+https://ping.pub/uptick/staking/uptickvaloper1wlkca99lnxpavzfmzp7tt025axaydr0znhl7sf
+
 **My mainnet validators are off** 💔
 
 LAMBDA
