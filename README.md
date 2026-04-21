@@ -30,4 +30,4 @@ kusama.subscan.io/account/GCbjDUscmiDd9fKmui2unzbDEA7VbCYRVXzTXhUGdc7ffat
 
 **My Testnets** 🧪
 
-Defund, Transformer, Massa, Nibiru, Deweb, Elixir, Side, Warden.
+Defund, Transformer, Massa, Nibiru, Deweb, Elixir, Side, Warden
